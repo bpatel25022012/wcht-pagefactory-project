@@ -1,0 +1,6 @@
+2020-04-19 13:04:81 INFO  BrowserSelector :22 - launching the  Chrome browser
+2020-04-19 13:04:860 INFO  HomePage :24 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 13:04:907 INFO  YourAccountPage :23 - Getting text from [[ChromeDriver: chrome on WINDOWS (fce7b7eeb442ccec4385e96587219d18)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
+2020-04-19 13:04:635 INFO  BrowserSelector :22 - launching the  Chrome browser
+2020-04-19 13:04:215 INFO  HomePage :24 - Clicking on your account link : Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 13:04:255 INFO  YourAccountPage :23 - Getting text from [[ChromeDriver: chrome on WINDOWS (feec7a3b6f125ec67ae6cbfb111315b3)] -> xpath: //span[contains(text(),"It's easy to manage your tenancy with an online ac")]]
